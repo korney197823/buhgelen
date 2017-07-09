@@ -5,6 +5,8 @@ header .intro-text .intro-lead-in {
   font-style: italic;
   line-height: 22px;
 }
-.timeline-image {
-
+.phone-number {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1.3em;
 }
