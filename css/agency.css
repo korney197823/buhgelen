@@ -972,3 +972,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+.phone-number {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1.3em;
+}
